@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+
+.jumbotron {
+    background-color: black;
+    
+}
+
+.my-header {
+    color: #EA9800;
+    font-size: 60px;
+    font-weight: bolder;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.myh2 {
+    color:white;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.flex-column {
+    background-color: #A4BC38;
+
+}
+
+.jumbotron {
+    background-image: url(http://huynhrestauranthouston.com/images/d/2822/Huynh_Restautant_back1.jpg);
+}
